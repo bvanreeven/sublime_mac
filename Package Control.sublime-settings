@@ -1,0 +1,16 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Emmet",
+		"Jade",
+		"JsFormat",
+		"JSLint",
+		"Package Control",
+		"Preview",
+		"Solarized Color Scheme",
+		"Theme - Soda",
+		"TypeScript"
+	]
+}
